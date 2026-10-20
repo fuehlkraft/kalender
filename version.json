@@ -1,0 +1,21 @@
+{
+  "version": "3.30.0",
+  "info": "Fühlkraft Kalender App, Ausgabe 2027",
+  "changes": {
+    "ueberblick": [
+      "Neuer Name: Fühlkraft Kalender App.",
+      "Neue Einrichtung mit Kacheln: Du richtest nur die Bereiche ein, die du wirklich brauchst.",
+      "Dein Instagram Link @fuehlkraft.de auf dem Startbildschirm und unter Rechtliches."
+    ],
+    "organisation": [
+      "Geldbeträge stehen jetzt überall mit Komma, zum Beispiel 110,50 €.",
+      "Wochenzeitplan zeigt deine Termine automatisch an."
+    ],
+    "pferde": [
+      "Hufpflege: Datumsfelder sind auf dem Handy gut lesbar."
+    ],
+    "kalender": [
+      "Glücksmomente: beim Tippen wackelt nichts mehr."
+    ]
+  }
+}
