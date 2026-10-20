@@ -1,21 +1,30 @@
 {
   "version": "3.30.0",
-  "info": "Fühlkraft Kalender App, Ausgabe 2027",
+  "info": "Die neue Fühlkraft Kalender App, Ausgabe 2027",
   "changes": {
-    "ueberblick": [
-      "Neuer Name: Fühlkraft Kalender App.",
-      "Neue Einrichtung mit Kacheln: Du richtest nur die Bereiche ein, die du wirklich brauchst.",
-      "Dein Instagram Link @fuehlkraft.de auf dem Startbildschirm und unter Rechtliches."
+    "allgemein": [
+      "Neuer Name: Aus dem Pferdekalender wird die Fühlkraft Kalender App, für dich, deine Familie, deine Pferde und dein Business.",
+      "Neue Pastellfarben: Jeder Bereich hat seine eigene Farbe, mit sanften Animationen.",
+      "Du wählst selbst, welche Bereiche und Unterseiten du sehen möchtest.",
+      "Mein Fokus heute, liebevolle Erinnerungen, Fokus-Zeit und ein Abend-Gruß. Alles einstellbar oder ganz ausschaltbar.",
+      "Termine kommen mit Erinnerung in deinen Handykalender, das Handy erinnert dich dann auch bei geschlossener App.",
+      "Teilen über WhatsApp, SMS und E-Mail an vielen Stellen.",
+      "Notfall-Nummern mit Ländern, Giftnotruf und deinen eigenen Kontakten.",
+      "Erinnerung an die Datensicherung."
     ],
-    "organisation": [
-      "Geldbeträge stehen jetzt überall mit Komma, zum Beispiel 110,50 €.",
-      "Wochenzeitplan zeigt deine Termine automatisch an."
+    "kinder": [
+      "Kinder & Enkel mit Schwangerschaft, Mama-Zeit, Vorsorge & Impfen, Ideen-Kiste und mehr."
     ],
     "pferde": [
-      "Hufpflege: Datumsfelder sind auf dem Handy gut lesbar."
+      "Steckbrief für die Vertretung zum Teilen und Ausdrucken."
+    ],
+    "business": [
+      "Neuer Bereich Business: Kontakte, Anfragen, Angebote mit Textbausteinen, Einnahmen, Content, Projekte, Fristen und Erfolge.",
+      "Netzwerk & Links: Profile, Seiten, Shops und Gruppen speichern, mit Erinnerung zum Wiederreinschauen.",
+      "Nachrichten mit Textbaustein per E-Mail, WhatsApp oder Telegram."
     ],
     "kalender": [
-      "Glücksmomente: beim Tippen wackelt nichts mehr."
+      "Himmel mit Sonnenlauf und Uhrzeit, Jahreskreis und eine neue Wochenübersicht."
     ]
   }
 }

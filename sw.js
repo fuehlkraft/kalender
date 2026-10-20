@@ -1,5 +1,5 @@
 // ════════════════════════════════════════════════════════════════
-// Fühlkraft Kalender App — Service Worker
+// Fühlkraft Kalender App, Service Worker
 // ════════════════════════════════════════════════════════════════
 //
 // WICHTIGSTE REGEL FÜR DICH (oder mich, beim nächsten Update):
@@ -34,7 +34,9 @@ const APP_SHELL = [
   './',
   './index.html',
   './manifest.json',
-  './icon.svg'
+  './icon-192.png',
+  './icon-512.png',
+  './apple-touch-icon.png'
 ];
 
 // ── INSTALL ──────────────────────────────────────────────────────
@@ -101,7 +103,7 @@ self.addEventListener('fetch', function (event) {
   if (req.url.indexOf('version.json') !== -1) return;
 
   event.respondWith(
-    caches.match(req).then(function (cached) {
+    caches.match(req,{ignoreSearch:req.mode==='navigate'}).then(function (cached) {
       if (cached) return cached;
       return fetch(req).then(function (response) {
         if (response && response.status === 200) {
